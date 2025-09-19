@@ -1,5 +1,6 @@
 ﻿# Aiden_ticket
 
-frontend : npm start /n
+frontend : npm start              
 backend : python main.py
+
 
